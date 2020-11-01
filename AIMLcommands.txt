@@ -1,0 +1,200 @@
+
+https://www.amazon.com/kindle-dbs/redeem?_encoding=UTF8&token=CKmGiGLzyOkTbzXnnDthlb5UVviauObUIQ6ErbUoouyBQdBTngsCh9QgKsCp6B3QzQXAJLFHtnhjLZC77mh9hIEeaau9lQA9p7SmSLUpxsd0b-MUiCR-evlQCHeTXn1NNVllWcdQgKxruCX0R1MbEK0rHKFQUGy5Ij56wZeOBWo0P4K31_kSVYyKDrRsYXIl7f08LgetygFgTXLk3YgDLLfy9MV7ZUKo7MHc2zcCYm9yj6FnTezbl6Q7gEJknzu7&token2=bg4x6ThrMXvn2c1_v0yzQw&v=5&m=A38SEFUGZMJU8S&force-full-site=1&odorigin=Other
+--------------------------
+wget https://repo.continuum.io/archive/Anaconda2-2018.12-Linux-x86_64.sh
+
+bash Anaconda2-2018.12-Linux-x86_64.sh
+
+wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O ~/miniconda.sh
+bash ~/miniconda.sh -b -p ~/miniconda 
+rm ~/miniconda.sh
+
+conda install jupyter tensorflow python h5py numpy matplotlib unicodecsv pytorch pillow pydot IPython scipy keras torchvision
+---------------------------------------------------------------------------
+
+below are the AI capabilities i learnt in my certification course.
+
+1. Object detection using YOLO algorithm [CNN]
+2. Emotion detection [CNN]
+3. Trigger word/ wave pattern detection [RNN]
+4. Sentiment classification [RNN]
+5. Recommender system
+6.prediction using multi-variate linear regression
+7.multi-class classification using multi-variate data
+8.k-means clustering
+9. anomaly detection
+
+poc done:
+MRI image classification by brain cancer type (98% accuracy)
+Pathology image classification by brain cancer type (99.3% accuracy)
+
+------------------------------------------------------------------------------
+
+data visualization
+sql 
+rest API with python
+github
+nosql db
+json
+docker
+kubernetes
+tensorflow, keras and pytorch
+pandas
+matplotlib
+numpy
+scipy
+basic data science
+data pipeline
+apache flume and apache hadoop
+linux
+shell scripting
+sequre web applications
+PIG
+HIVE
+HBASE
+-------------------------------------------------------------------------
+Subject: Identify skill gaps and information on job opportunities
+
+hi Raymond,
+
+Hope you are doing well. Please call me AJ.
+
+I am a Computer Engineer (BS) with an MBA (specialization: Banking). I have worked since 1998 in the IT Industry, mostly in the IT department of various Multinational Banks on both development and QA projects.
+
+For the past one year I have been interning as an AI/ML engineer with a Houston based startup in the healthcare sector. Kindly review my resume and point out any skill gaps that I might need to close. Also please let me know of any job opportunities that you are aware of.
+
+---------------------------------------------------------------------------
+
+
+hi, Hope you are doing well. I am a Computer Engineer (BS) with an MBA (major: Banking). I have worked since 1998 in the IT Industry, mostly in the IT department of various Multinational Banks. For one year now, I have been interning as an AI/ML engineer with a Houston based healthcare startup 
+
+--------------------------------------------------------------------------
+
+hi
+
+Thanks for connecting with me.  As I have been in the AI/ML space for the past one year only, I need some help with understanding the AI landscape in Houston. Can you please give me information regarding the below questions that I have in my mind?
+
+1. What jobs/roles will I fit in, in the Houston AI/ML space?
+
+2. Which companies in Houston should I be targeting for a job?
+
+3. What gaps in my skill sets should I close (I am attaching my resume here)?
+
+4. What are the important interview questions?
+
+Any information that you can give regarding the above questions will be very valuable help for me.
+
+---
+Also please keep me in mind for any related opportunities.
+
+----------------------------------------------------------------------------------------------------------------
+leverage existing data into products (web apps, PowerBI visualizations, etc.). If you target these more established companies, focus on ML or data engineering/cloud engineering roles. They need people who can make their data useful, 
+cutting-edge predictive analysis. Automation and data pipelines are key in large corporations right now.
+
+solving basic leet code problems; knowledge about ML algorithms; feature engineering; 
+reach out to Matt Francsis on LinkedIn; 
+Glassdoor to see AI jobs in Houston and look at their requirements for gaps;
+
+custom models in spacy or NLTK; models like Transformers and BERT.
+
+Website:  https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
+------------------------------------------------------------------------------------------------------------------
+I think you should be comfortable with solving basic leet code problems and also knowledge about ML algorithms is a must
+
+
+Companies also ask questions on feature engineering
+
+
+And they can provide you with a sample problem and ask you to work on that
+
+--------------------------------------------------------------------------------------------------------------------
+
+You may want to reach out to Matt Francsis on LinkedIn for some insight into AI jobs.
+I know he is an AI professional . He recently switched careers to AI space.
+He is very approachable and helpful.
+Good luck
+
+---------------------------------------------------------------------------------------------------------------------
+
+4. https://www.linkedin.com/interview-prep/assessments/urn:li:fs_assessment:(1,a)/question/urn:li:fs_assessmentQuestion:(10011,aq11)/
+
+Sign Up | LinkedIn
+linkedin.com • 1 min read
+500 million+ members | Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities.
+
+these questions are very helpful
+
+-----------------------------------------------------------------------------------------------------------------------
+You can search AI/ML job through linkedin, indeed, glassdoor. You can set up your preferred job location, related experience and then you will get notification and then keep on applying.
+-----------------------------------------------------------------------------------------------------------------------
+Thanks for your message! It seems like you have a large range of experience which is awesome. I think my main critique of your resume is - what do YOU want to be doing? Do you want to lead data science teams, be in operations, business etc.? Once you get an understanding of what you want, I think you can start asking the questions where you should be targeting.
+
+As for gaps, I am not sure. It seems as though you have a lot more experience than me. One thing I can say is that, you need to clearly demonstrate how you added VALUE to your projects and to your team. This is easy for the interviewer to understand and sometimes putting technical words may not help you. Really hone in on the important projects, what you accomplished, and why it mattered.
+
+I hope this helps. Please let me know if you have any further questions! Good luck.
+-----------------------------------------------------------------------------------------------------------------------
+ I would look on Glassdoor to see AI jobs in Houston and look at their requirements. Make a list of the ones you lack and the one that occur the most and focus on them. For companies, do you own research on based on your values and interests because they differ from person to person.
+-----------------------------------------------------------------------------------------------------------------------
+
+I see that your background is in software engineering, which is a huge advantage. In old, established companies like Chevron, there is a huge push to leverage existing data into products (web apps, PowerBI visualizations, etc.). If you target these more established companies, I would focus on ML or data engineering/cloud engineering roles. They need people who can make their data useful, but are still a few years away from cutting-edge predictive analysis. Automation and data pipelines are key in large corporations right now.
+
+I wouldn't recommend going straight for data scientist positions out of software engineering because those positions tend to look for masters degrees and PhDs in data science or statistics. It would be better to start in an ML role and transition into DS from there.
+
+All that being said, I don't have any experience at smaller companies. You'd probably be more sought after at startups or medium-sized companies due to your experience and ability to contribute to software development and data science at the same time.
+
+I think you're doing a great job! I admire the fact that you've set a goal and taking steps to make it happen. Leverage your software engineering skills!
+-----------------------------------------------------------------------------------------------------------------------
+In any way if you want my opinion. Houston is a new market for AI/ML and most off the opportunities are in the oil and gas sector. There a some small startups too however it has not yet caught on like in the other cities. Hopefully that helps but also make sure to get an opinion of someone with more experience.
+-----------------------------------------------------------------------------------------------------------------------
+Justin Mackie  9:51 PM
+
+Hi Anjan. A headhunter can give you better answers than me. Send me a PDF format resume and I’ll give you feedback.
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------------------------------
+JD--------------
+ML - 5 yrs ,
+NLP - atleast 3 yrs with experience in entity extraction using custom models in spacy or NLTK.
+Working experience with state of the art models like Transformers and BERT.
+Track record of research excellence.
+Programming language- python.
+Understanding of graph databases would be a plus
+Knowledge of application areas, such as computer vision or natural language processing, is a plus.
+Excellent communications skills
+Overall experience of 6+ years
+
+Mandatory Functional Skills
+
+2-5 years of experience in Development of Machine Learning / Deep Learning systems
+Conceive deep learning approaches to solving particular product problems.
+Construct and curate large problem specific datasets.
+Design and implement machine learning techniques aimed at solving specific problems.
+Collaborate with other team members, both in research and product roles.
+Transfer technology to product groups.
+
+
+-----------------------------------------------------------------------------------------------------
+
+•	Sun Certified Java Programmer [Oct 1999]
+•	International Software Testing Qualifications Board [ISTQB] foundation level certification [Oct 2008]
+•	Machine learning certification – Stanford Univ. - Prof. Andrew Ng – Coursera [Jul 2019]
+•	Deep Learning certification – Neural Networks – Prof. Andrew Ng – Coursera [Aug 2019]
+•	Deep Learning certification – hyperparameter tuning, Regularization & Optimization – Prof. Andrew Ng – Coursera [Aug 2019]
+•	Deep Learning certification – Structuring Machine Learning projects– Prof. Andrew Ng – Coursera [Aug 2019]
+•	Deep Learning certification – Convolution Neural networks certification – Prof. Andrew Ng – Coursera [Sep 2019]
+•	Deep Learning certification – Sequence Models (RNN) certification – Prof. Andrew Ng – Coursera [Sep 2019]
+•	Google Cloud Training - Production Machine Learning Systems certification  – Coursera [Oct 2019]
+•	Google Cloud Training - End-to-End Machine Learning with TensorFlow on GCP certification – Coursera [Oct 2019]
+
+
+
